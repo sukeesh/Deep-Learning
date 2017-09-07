@@ -1,4 +1,4 @@
-# Deep-Learning-Sample-Codes
+# Deep-Learning
 
 Some reference codes for deep learning using Keras with tensorflow backend
 
